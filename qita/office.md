@@ -4,9 +4,9 @@
 
 下载完成后将其全部解压出来
 
-&#x20;       如果你不会解压看这解压教程：
+如果你不会解压看这解压教程：
 
-> [jieya.md](../wiki-zhu-ye/jieya.md)
+> [解压](../wiki-zhu-ye/jieya.md)
 
 解压完成后打开office tool plus
 
