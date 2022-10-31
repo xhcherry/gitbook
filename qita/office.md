@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (194).png>)
 
 进入主页后选择左边栏的部署，按下图所指按步骤操作
->在下图中必须点上access和excel，其他自己看着，需要就点
+> 注意如果你要制作二维码则在下图中必须点上access和excel，其他自己看着，需要就点
 
 <figure><img src="../.gitbook/assets/8_RCP)CUUX8NZF@)A6S9MC3.png" alt=""><figcaption></figcaption></figure>
 
@@ -26,8 +26,6 @@
 <figure><img src="../.gitbook/assets/3GE3.png" alt=""><figcaption></figcaption></figure>
 
 最后点击第六步激活等待显示激活完成即可
-
-wps？    别想了玩不了
 
 如果激活失败就按下图方法先清除许可证
 
