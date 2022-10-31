@@ -20,7 +20,7 @@
 
 在官网中点击下图红箭头指的版本就行
 
-![](../.gitbook/assets/NL\)\~\(9C4284BLH%II\`KLSL9.png)
+![](../.gitbook/assets/KLSL9.png)
 
 将其安装完成后，再右键需要解压的压缩包选择7-zip，然后选择提取文件
 
