@@ -19,7 +19,7 @@
 * [windows安装VMware16pro](qita/VMware.md)
 * [VMware安装centos8.5](qita/centos.md)
 * [VMware安装Ubuntu22.04.1](qita/Ubuntu.md)
-* [VMware安装macOS Monterey 12.6](qita/macos.md)
+* [VMware安装macOS Ventura 13](qita/Ventura13.md)
 * [VMware安装Kali](qita/kali.md)
 * [Copy of VMware安装Red Hat](<qita/red hat.md>)
 
