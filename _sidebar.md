@@ -20,5 +20,5 @@
 * [VMware安装Ubuntu22.04.1](qita/Ubuntu.md)
 * [VMware安装macOS Ventura 13](qita/Ventura13.md)
 * [VMware安装Kali](qita/kali.md)
-* [Copy of VMware安装Red Hat](<qita/red hat.md>)
+* [VMware安装Red Hat](<qita/red hat.md>)
 
