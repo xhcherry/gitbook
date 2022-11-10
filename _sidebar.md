@@ -7,7 +7,6 @@
 * [Wiki主页](README.md)
   * [下载辅助压缩包解压教程](wiki/jieya.md)
 
-## 其他 <a href="#qita" id="qita"></a>
 
 * [键盘键值表](qita/jianpankey.md)
 * [Microsoft office激活教程](qita/office.md)
