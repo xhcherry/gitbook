@@ -89,3 +89,31 @@ cpuid.1.edx = "0000:0111:1000:1011:1111:1011:1111:1111"
 smbios.reflectHost = "TRUE"
 
 最后保存并关闭
+
+在VMware中选择打开此虚拟机
+
+![](../image/mac/mac111.png)
+
+![](../image/mac/mac11.png)
+
+![](../image/mac/mac12.png)
+
+![](../image/mac/mac13.png)
+
+![](../image/mac/mac14.png)
+
+![](../image/mac/mac15.png)
+
+![](../image/mac/mac16.png)
+
+![](../image/mac/mac17.png)
+
+![](../image/mac/mac18.png)
+
+![](../image/mac/mac19.png)
+
+![](../image/mac/mac20.png)
+
+![](../image/mac/mac21.png)
+
+![](../image/mac/mac22.png)
