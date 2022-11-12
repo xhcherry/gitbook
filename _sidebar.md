@@ -21,4 +21,5 @@
 * [VMware安装macOS Ventura 13](qita/Ventura13.md)
 * [VMware安装Kali](qita/kali.md)
 * [VMware安装Red Hat](<qita/red hat.md>)
+* [银行家算法](<qita/banker.md>)
 

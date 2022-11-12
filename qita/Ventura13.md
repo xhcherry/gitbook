@@ -117,3 +117,5 @@ smbios.reflectHost = "TRUE"
 ![](../image/mac/mac21.png)
 
 ![](../image/mac/mac22.png)
+
+这里会重启很多次，慢慢等着进就行了差不多30分钟左右，若三四十分钟还不行，就检查前面是不是有哪一步操作错误
