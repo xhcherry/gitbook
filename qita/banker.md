@@ -203,7 +203,7 @@ void Init();//初始化
 void Display();//显示各个进程资源情况
 void Dis_char(int i, char ch);//将ch字符显示i次
 bool operator <= (vector<int>& Request, vector<int>& Need);//比较是否Request都小于等于Need
-bool operator ==(vector<int>& Need,int n)//Need的每一项都等于0
+bool operator ==(vector<int>& Need,int n);//Need的每一项都等于0
 void Display_Security(pair<vector<int>, Status>& val);//显示安全序列
 void Display_Security2(pair<vector<int>, Status>& val);//显示各个进程安全情况
 void Require();//进程请求资源
