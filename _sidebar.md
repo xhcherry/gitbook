@@ -22,4 +22,5 @@
 * [VMware安装Kali](qita/kali.md)
 * [VMware安装Red Hat](<qita/red hat.md>)
 * [银行家算法](<qita/banker.md>)
+* [windows配置docsify](qita/docsify.md)
 
