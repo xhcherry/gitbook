@@ -23,4 +23,8 @@
 * [VMware安装Red Hat](<qita/red hat.md>)
 * [银行家算法](<qita/banker.md>)
 * [windows配置docsify](qita/docsify.md)
+  * [托管GitHub](qita/docsify1.md)
+  * [linux服务器](qita/docsify2.md)
+
+
 
