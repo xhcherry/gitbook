@@ -10,5 +10,4 @@
 
 下图即为成功
 
-<figure><img src="../.gitbook/assets/IGHV.png" alt=""><figcaption></figcaption></figure>
-
+![](../.gitbook/assets/IGHV.png)
