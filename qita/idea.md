@@ -100,18 +100,66 @@ default-character-set=utf8
 
 ![](../image/idea/16.png)
 
-mysql服务安装完成了，接下来打开idea
+mysql服务安装完成了，接下来需要下载驱动文件
 
+进入链接：https://dev.mysql.com/downloads/connector/j/
+
+按下图显示下载文件
+
+![](../image/idea/20.png)
+
+下载完成后将其全部解压到你需要的文件夹里面
+
+然后打开idea
 在右边栏选数据库，点开加号，选择数据源，在数据源中找到mysql
 
 ![](../image/idea/17.png)
 
-在下图中下载驱动文件
+如下图点击驱动程序
 
-![](../image/idea/18.png)
+![](../image/idea/21.png)
 
-下载完成后在用户名处输入root
-密码是之前修改后的密码
-输入好后测试链接，如下图即为成功，确定即可
+找到MySQL，点击驱动程序文件的加号，选择自定义jar
+
+![](../image/idea/22.png)
+
+将路径选择到刚刚解压的驱动程序文件夹里面，打开后有一个jar后缀的文件，选择它
+
+![](../image/idea/23.png)
+
+![](../image/idea/24.png)
+
+如下图返回数据源，点击@localhost，输入用户，修改后的密码，然后测试链接
+
+![](../image/idea/25.png)
+
+下图即为成功
 
 ![](../image/idea/19.png)
+
+然后打开文件，项目结构
+
+![](../image/idea/27.png)
+
+如下图说明操作（导入的jar文件和前面设置驱动文件的jar文件一样）
+
+![](../image/idea/28.png)
+
+新建一个测试的java类，输入下面的代码运行
+
+```
+import java.sql.*;
+public class Test1 {
+    public static void main(String[] args) throws Exception {
+        Class.forName("com.mysql.cj.jdbc.Driver");
+        String url = "jdbc:mysql://localhost/mysql?user=root&password=123456";
+        Connection conn = DriverManager.getConnection(url);
+        DatabaseMetaData dbmd = conn.getMetaData();
+        System.out.print("JDBC驱动程序："+dbmd.getDriverName()+","+dbmd.getDriverVersion()+"\nJDBC URL:"+dbmd.getURL()+"\n数据库:"+dbmd.getDatabaseProductName()+",版本:"+dbmd.getDatabaseProductVersion()+"，用户名:"+dbmd.getUserName());
+        conn.close();
+    }
+}
+```
+下图即为结果
+
+![](../image/idea/29.png)
