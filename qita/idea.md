@@ -160,6 +160,9 @@ public class Test1 {
     }
 }
 ```
+
+代码中的password=这里填写的是你修改过后的密码
+
 下图即为结果
 
 ![](../image/idea/29.png)
