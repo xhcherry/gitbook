@@ -25,6 +25,6 @@
 * [windows配置docsify](qita/docsify.md)
   * [托管GitHub](qita/docsify1.md)
   * [linux服务器](qita/docsify2.md)
-
+* [idea+mysql配置](qita/idea.md)
 
 
