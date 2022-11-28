@@ -4,17 +4,17 @@
 
 ![](<../.gitbook/assets/image (178).png>)
 
-**依次点开HKEY\_LOCAL\_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion**
+依次点开HKEY\_LOCAL\_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion**
 
-找到**RegisteredOwner**
+找到**RegisteredOwner
 
-****![](<../.gitbook/assets/image (195).png>)****
+![](<../.gitbook/assets/image (195).png>)
 
 **双击打开这个名称直接修改数值数据即可**
 
-****![](<../.gitbook/assets/image (179).png>)****
+![](<../.gitbook/assets/image (179).png>)
 
-**然后**定位到HKEY\_LOCAL\_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList这个位置
+然后定位到HKEY\_LOCAL\_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList这个位置
 
 profilelist里面的文件夹数量不固定，都点开看看，其中有一个如下图红线部分最后的数值栏就是需要修改的位置
 
