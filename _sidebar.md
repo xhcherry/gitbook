@@ -9,7 +9,7 @@
 
 
 
-* [VMware]()
+* VMware
   * [windows安装VMware16pro](qita/VMware.md)
   * [VMware安装centos8.5](qita/centos.md)
   * [VMware安装Ubuntu22.04.1](qita/Ubuntu.md)
