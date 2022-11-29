@@ -6,7 +6,7 @@
 
 * [Wiki主页](README.md)
 
-* [下载辅助压缩包解压教程](qita/jieya.md)
+* [下载压缩包解压教程](qita/jieya.md)
 
 
 
