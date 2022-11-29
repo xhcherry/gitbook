@@ -1,6 +1,6 @@
 # Microsoft office激活教程
 
-访问此链接下载office tool plus：[https://otp.landian.vip/redirect/download.php?type=runtime\&site=sdumirror](https://otp.landian.vip/redirect/download.php?type=runtime\&site=sdumirror)
+访问此链接下载[office tool plus](https://otp.landian.vip/redirect/download.php?type=runtime\&site=sdumirror)
 
 下载完成后将其全部解压出来
 
