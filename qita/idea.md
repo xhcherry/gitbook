@@ -7,12 +7,18 @@ https://download.jetbrains.com.cn/idea/ideaIC-2022.2.4.exe
 ![](../image/idea/30.png)
 ![](../image/idea/31.png)
 ![](../image/idea/32.png)
+
+下图是重启，保存好后再finish
+
 ![](../image/idea/33.png)
 ![](../image/idea/34.png)
 ![](../image/idea/35.png)
 ![](../image/idea/36.png)
 ![](../image/idea/37.png)
 ![](../image/idea/38.png)
+
+到这可以用老师发的项目运行步骤看（txt文件）
+
 ## mysql配置
 
 https://dev.mysql.com/downloads/mysql/
