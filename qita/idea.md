@@ -17,9 +17,6 @@ https://download.jetbrains.com.cn/idea/ideaIC-2022.2.4.exe
 ![](../image/idea/37.png)
 ![](../image/idea/38.png)
 
-> 到这可以看老师发的txt文件（后台运行步骤-1669294052067.txt）
-
-> 下面的是idea链接mysql的
 
 ## mysql配置
 
@@ -189,3 +186,7 @@ public class Test1 {
 下图即为结果
 
 ![](../image/idea/29.png)
+
+> 上面已将mysql成功连接idea
+
+> 接下来可以看老师发的txt文件（后台运行步骤-1669294052067.txt）
