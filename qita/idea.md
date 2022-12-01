@@ -145,7 +145,7 @@ mysql服务安装完成了，接下来需要下载驱动文件
 
 ![](../image/idea/45.png)
 
-安装完成后重启ide就行
+安装完成后重启ide就行，然后叫base browser在左边
 
 ![](../image/idea/17.png)
 
