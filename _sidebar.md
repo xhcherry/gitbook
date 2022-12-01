@@ -18,7 +18,7 @@
   * [VMware安装Kali](VMware/kali.md)
   * [VMware安装Red Hat](<VMware/red hat.md>)
 
-* 算法
+* 操作系统算法
   * [银行家算法](algorithm/banker.md)
   * [页面置换算法](algorithm/pagedisplace.md)
   * [磁盘调度算法](algorithm/Disk_scheduling.md)
