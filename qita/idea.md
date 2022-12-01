@@ -14,9 +14,15 @@ https://download.jetbrains.com.cn/idea/ideaIC-2022.2.4.exe
 ![](../image/idea/34.png)
 ![](../image/idea/35.png)
 ![](../image/idea/36.png)
+
+注意：下图中打开的是老师发的shiyi-blog master的项目，打开shiyi-blog-master文件夹里面的blog
+
 ![](../image/idea/37.png)
+
+
 ![](../image/idea/38.png)
 
+至此idea配置完成且打开了老师的项目，继续mysql
 
 ## mysql配置
 
