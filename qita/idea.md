@@ -68,7 +68,7 @@ https://dev.mysql.com/downloads/mysql/
 # 设置3306端口
 port=3306
 # 设置mysql的安装目录
-basedir=E:\\software\\mysql\\mysql-8.0.11-winx64   # 切记此处一定要用双斜杠\\，单斜杠我这里会出错，不过看别人的教程，有的是单斜杠。自己尝试吧
+basedir=E:\\software\\mysql\\mysql-8.0.11-winx64   # 切记此处一定要用双斜杠，单斜杠我这里会出错，不过看别人的教程，有的是单斜杠。自己尝试吧
 # 设置mysql数据库的数据的存放目录
 datadir=E:\\software\\mysql\\mysql-8.0.11-winx64\\Data   # 此处同上
 # 允许最大连接数
