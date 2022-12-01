@@ -196,3 +196,35 @@ public class Test1 {
 > 上面已将mysql成功连接idea
 
 > 接下来可以看老师发的txt文件（后台运行步骤-1669294052067.txt）
+
+老师给的步骤就不一步一步做了
+
+注意点：
+
+1.运行redis-server.exe时，弹出黑框后即刻闪退解决：
+
+在你下载完redis并完全解压后，在地址栏中输入cmd，进入redis根目录的命令提示符
+
+输入redis-server.exe redis.windows.conf
+
+如下图（路径别错了，在redis根目录）
+
+![](../image/idea/39.png)
+
+所有内容都搭建好后会和下面几张图99%相似
+
+1.redis
+
+![](../image/idea/39.png)
+
+2.navicat
+
+![](../image/idea/43.png)
+
+3.Android（按下图输入的mysql代码是能正常运行的）
+
+![](../image/idea/41.png)
+
+4.idea（博客也能正常运行）
+
+![](../image/idea/42.png)
