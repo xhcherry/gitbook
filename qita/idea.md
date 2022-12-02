@@ -147,27 +147,7 @@ mysql服务安装完成了，接下来需要下载驱动文件
 
 安装完成后重启ide就行，然后叫base browser在左边
 
-然后操作和下面的很类似，有不一样的地方跳过，结果和[database成功图]一样（往下翻第七张）
-
-![](../image/idea/17.png)
-
-如下图点击驱动程序
-
-![](../image/idea/21.png)
-
-找到MySQL，点击驱动程序文件的加号，选择自定义jar
-
-![](../image/idea/22.png)
-
-将路径选择到刚刚解压的驱动程序文件夹里面，打开后有一个jar后缀的文件，选择它
-
-![](../image/idea/23.png)
-
-![](../image/idea/24.png)
-
-如下图返回数据源，点击@localhost，输入用户，修改后的密码，然后测试链接
-
-![](../image/idea/25.png)
+![](../image/idea/46.png)
 
 ## database成功图
 
