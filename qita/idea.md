@@ -149,6 +149,8 @@ mysql服务安装完成了，接下来需要下载驱动文件
 
 ![](../image/idea/46.png)
 
+![](../image/idea/47.png)
+
 ## database成功图
 
 下图即为成功
