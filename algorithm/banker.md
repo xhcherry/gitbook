@@ -55,22 +55,25 @@ Dijkstra的银行家算法是操作系统中最有代表性的死锁避免方案
 
 2.1银行家算法数据结构
 
-Avaliable—可利用资源向量。这是一个含有m个元素的数组，每个元素代表一类可利用资源数目,其初值是系统中所配置的该类全部可用资源数目，其数值随该类资源的分配和回收而动态地改变。
+Avaliable(可利用资源向量)。这是一个含有m个元素的数组，每个元素代表一类可利用资源数目,其初值是系统中所配置的该类全部可用资源数目，其数值随该类资源的分配和回收而动态地改变。
 
-Max—最大需求矩阵。这是一个m*n的矩阵，它定义了系统中n个进程中的每一个进程对n类资源的最大需求。
+Max(最大需求矩阵)。这是一个m*n的矩阵，它定义了系统中n个进程中的每一个进程对n类资源的最大需求。
 
-Allocation—分配矩阵。这是一个m*n的矩阵，它定义了当前系统的n个进程得到每一类资源的数目。
+Allocation(分配矩阵)。这是一个m*n的矩阵，它定义了当前系统的n个进程得到每一类资源的数目。
 
-Request—请求向量。这是一个含有m个元素的向量，它表示进程i对各类资源的需求情况。
-Need—需求矩阵。这是一个n*m的矩阵，它定义了当前系统的n个进程要想完成工作，还需要各类资源的数目。因此有以下关系:
+Request(请求向量)这是一个含有m个元素的向量，它表示进程i对各类资源的需求情况。
 
+Need(需求矩阵)这是一个n*m的矩阵，它定义了当前系统的n个进程要想完成工作，还需要各类资源的数目。因此有以下关系:
+
+```
 Need[i,j] = Max[i,j]-Allocation[i,j]
+```
 
 2.2安全性算法数据结构:
 
-Work—工作向量。这是-一个含有m个元素的向量，表示系统可以提供给进程继续运行所需的各类资源数目，其初值Work=Avaliable。
+Work(工作向量)这是一个含有m个元素的向量，表示系统可以提供给进程继续运行所需的各类资源数目，其初值Work=Avaliable。
 
-Finish—结束向量。表示系统是否有足够的资源分配给进程，使之运行完成。开始时Finish[i]=false,当有足够资源分配给进Finish[j]=ture。
+Finish(结束向量)表示系统是否有足够的资源分配给进程，使之运行完成。开始时Finish[i]=false,当有足够资源分配给进Finish[j]=ture。
 
 2.3银行家算法:
 
@@ -180,7 +183,7 @@ Finish—结束向量。表示系统是否有足够的资源分配给进程，�
 
 ## 代码
 Banker.h
-```
+```cpp
 #pragma once
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<iostream>
@@ -213,7 +216,7 @@ pair<vector<int>, Status> AlgoBanker(int Pid, vector<int>& Requset);//银行家�
 pair<vector<int>, Status> AlgoSecurity();//安全性算法
 ```
 Banker.cpp
-```
+```cpp
 #include"Banker.h"
 
 #define MAX_SOURCE 6 //可打印的最大资源数
@@ -563,9 +566,9 @@ pair<vector<int>, Status> AlgoSecurity()//安全性算法
 	return retval;
 }
 ```
-Main .cpp
 
-```
+Main .cpp
+```cpp
  #include"Banker.h"
 int main()
 {
