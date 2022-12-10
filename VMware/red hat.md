@@ -1,6 +1,6 @@
 # VMware安装Red Hat
 
-![](../image/redhat/1.png)
+![](/image/redhat/1.png)
 ![](../image/redhat/2.png)
 ![](../image/redhat/3.png)
 ![](../image/redhat/4.png)
