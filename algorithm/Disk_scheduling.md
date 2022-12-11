@@ -61,7 +61,7 @@ SCAN算法既能获得较好的寻道性能，又能防止“饥饿”现象，�
 |SCAN算法|寻道性能较好，可避免“饥饿”现象 |不利于远离磁头一端的访问请求|
 |C-SCAN算法| 消除了对两端磁道请求的不公平 |-- |
 
-```
+```cpp
 #include <iostream>
 #include <fstream>
 #include <iomanip>
