@@ -23,6 +23,14 @@
   * [页面置换算法](algorithm/pagedisplace.md)
   * [磁盘调度算法](algorithm/Disk_scheduling.md)
 
+* C++教程
+  * [C++基础入门](CPP/一/C++基础入门.md)
+  * [通讯录管理系统](CPP/二/通讯录管理系统.md)
+  * [C++核心编程](CPP/三/C++核心编程.md)
+  * [基于多态的企业职工系统](CPP/四/职工管理系统.md)
+  * [C++提高编程](CPP/五/C++提高编程.md)
+  * [基于STL的演讲比赛流程管理系统](CPP/六/演讲比赛.md)
+  * [机房预约系统](CPP/七/机房预约系统.md)
 
 * [键盘键值表](qita/jianpankey.md)
 * [Microsoft office激活教程](qita/office.md)
