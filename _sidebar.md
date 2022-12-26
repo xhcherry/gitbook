@@ -44,6 +44,7 @@
 * [windows配置docsify](qita/docsify.md)
   * [托管GitHub](qita/docsify1.md)
   * [linux服务器](qita/docsify2.md)
+* [服务器搭建halo个人博客](qita/halo.md)
 
 
 
