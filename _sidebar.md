@@ -23,7 +23,7 @@
   * [页面置换算法](algorithm/pagedisplace.md)
   * [磁盘调度算法](algorithm/Disk_scheduling.md)
 
-* C++教程
+* C++教程笔记
   * [C++基础入门](CPP/一/C++基础入门.md)
   * [通讯录管理系统](CPP/二/通讯录管理系统.md)
   * [C++核心编程](CPP/三/C++核心编程.md)
