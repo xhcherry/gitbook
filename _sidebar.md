@@ -31,6 +31,7 @@
   * [C++提高编程](CPP/五/C++提高编程.md)
   * [基于STL的演讲比赛流程管理系统](CPP/六/演讲比赛.md)
   * [机房预约系统](CPP/七/机房预约系统.md)
+  * [查看单个类的布局](CPP/single.md)
 
 * [键盘键值表](qita/jianpankey.md)
 * [Microsoft office激活教程](qita/office.md)
