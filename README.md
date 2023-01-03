@@ -11,6 +11,3 @@
 本网站教程编写者，唯一拥有者QQ：2036201905，如有问题请联系此q
 
 
-游戏主页[https://xhaocherry.xyz/](https://xhaocherry.xyz/)
-
-以及游戏教程[https://docs.xhcheats.cn/#/](https://docs.xhcheats.cn/#/)
