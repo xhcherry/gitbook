@@ -3,12 +3,9 @@
 <img src=xh1.jpg />
 </div>
 
-
 * [Wiki主页](README.md)
 
 * [下载压缩包解压教程](qita/jieya.md)
-
-
 
 * VMware
   * [windows安装VMware16pro](VMware/VMware.md)
@@ -32,6 +29,7 @@
   * [基于STL的演讲比赛流程管理系统](CPP/六/演讲比赛.md)
   * [机房预约系统](CPP/七/机房预约系统.md)
   * [查看单个类的布局](CPP/single.md)
+  * [实参与形参](CPP/shican.md)
 
 * [键盘键值表](qita/jianpankey.md)
 * [Microsoft office激活教程](qita/office.md)
