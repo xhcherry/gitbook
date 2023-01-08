@@ -29,6 +29,13 @@
             alias: {
                 '/.*/_sidebar.md': '/_sidebar.md',
             },
+            tabs: {
+                persist: true,      // default
+                sync: true,      // default
+                theme: 'classic', // default
+                tabComments: true,      // default
+                tabHeadings: true       // default
+            },
             search: {
                 depth: 6,
                 noData: "没有搜到!",
@@ -84,7 +91,7 @@
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <!-- 全文搜索 -->
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <!-- plugins -->
     <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
